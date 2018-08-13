@@ -1,5 +1,6 @@
-# HappyFind Server
-##### Supporting Server for HappyFind
+# HappyFind Server ![Archived](https://img.shields.io/badge/Archived-red.svg)
+## NOTICE - THIS REPOSITORY IS ARCHIVED
+**for updates see [this new repository](https://github.com/zailleh/happy_find_app)**
 
 ## What does it do?
 This server hosts data and API endpoints for finding suppliers of various services in a given area.
